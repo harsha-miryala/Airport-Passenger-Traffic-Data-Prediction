@@ -1,0 +1,17 @@
+Air port traffic Data
+https://www.bitre.gov.au/publications/ongoing/airport_traffic_data.aspx
+
+World Devolopment Indicators
+https://datacatalog.worldbank.org/dataset/world-development-indicators
+
+
+Other Miscellaneous data for features
+
+https://data.oecd.org/emp/employment-rate.htm
+
+https://www.indexmundi.com/australia/unemployment_rate.html?fbclid=IwAR3Bx2a6vLRrFL1NSOrKuMF2XV0k27oESN-ONIBBmxMOlSKJquRSZKgGm3s
+
+https://www.indexmundi.com/commodities/?commodity=jet-fuel&months=60
+
+https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=ema_epjk_pwg_nus_dpg&f=a
+
