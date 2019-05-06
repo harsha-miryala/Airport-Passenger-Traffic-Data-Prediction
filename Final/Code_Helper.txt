@@ -1,0 +1,3 @@
+The .ipynb files are the the code files written in python3 and can be opened through google collab or jupyter notebook
+
+The .csv files are the data files, they are not the exact files as they have been preprocessed because it had huge amount of data not needed for our purpose
